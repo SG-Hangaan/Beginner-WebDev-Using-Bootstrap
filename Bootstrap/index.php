@@ -21,6 +21,7 @@
 	   	<br/> <a href="myphp">myphp</a>
 		<br/> <a href="PHP_Basic_(Function and Array)">PHP Basic (Function and Array)</a>
 		<br/> <a href="PHP_Activity(POST and GET method)">PHP Activity(POST and GET method)</a>
+	   	<br/> <a href="DEMO_CRUD">PHP CRUD OPERATIONS</a>
 	  	<br/> <a href="Portfolio">Portfolio</a>
 		<br/> <a href="photo_gallery">Photo Gallery</a>
 		<br/> <a href="blog_project">Blog</a>
